@@ -11,5 +11,4 @@ This project can help enhance user experience in interactive technologies. In ga
 In addition, this project can improve assistive technologies. For individuals with disabilities, especially those affecting speech and facial expressions, emotion recognition through EEG and hand movements could provide a new means of communication and interaction with technology. This could improve the quality of life for those individuals by enabling assistive devices to better understand and respond to their needs and emotional states.
 
 ## Data
-(Brain Signals And The Corresponding Hand Movement Signals Dataset (BS-HMS-DATASET))[https://ieee-dataport.org/open-access/brain-signals-and-corresponding-hand-movement-signals-dataset-bs-hms-dataset]
-
+Original dataset is comming from [Brain Signals And The Corresponding Hand Movement Signals Dataset (BS-HMS-DATASET)](https://ieee-dataport.org/open-access/brain-signals-and-corresponding-hand-movement-signals-dataset-bs-hms-dataset). Given that the original dataset required some refinement, we conducted a thorough preprocessing of the data, which is now stored in the Data folder for further analysis.
