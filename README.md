@@ -1,3 +1,11 @@
+# Introduction and Motivation
+
+In this project, our goal is to develop models that uses EEG brainwave patterns and hand movement data for real-time stimulus detection. Integrating these biometric indicators would help create a responsive system that can enhance gaming experiences. Additionally, it has the potential to greatly improve assistive technologies and support the functional needs of individuals with disabilities. This approach would facilitate interactive technology and accessibility, making digital environments more intuitive and inclusive.
+
+However, our project faces some challenges, particularly with the noise in EEG data, such as segments before and after videos that introduce irrelevant information. This issue reduces our model's ability to learn meaningful patterns from the EEG signals. Additionally, the limited size of the Emotiv dataset restricts model’s ability to generalize EEG signal patterns and draw reliable conclusions.
+
+Moving forward, we would explore the Neurosky dataset and employing various feature extraction and data augmentation strategies. We will also experiment with different neural network architectures, such as artificial neural networks , which may be more suitable for the Neurosky data. Furthermore, we would like to discover more diverse categories of outcomes and see if there are any other important positions, and we would implement unsupervised learning models, which would open up new possibilities for applications in dynamic and responsive technologies.
+
 # EmoSync: Real-Time Stimulus Recognition and Prediction through EEG and Hand Movement Analysis
 
 ## Data
